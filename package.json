@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "nikolay sinelnikov",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  },
+  "dependencies": {
+    "gulp": "^4.0.0"
+  }
 }
